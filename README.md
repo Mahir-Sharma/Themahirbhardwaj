@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Themahirbhardwaj
 - 👀 I’m interested in competitive programming (CP)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently working on Website Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
